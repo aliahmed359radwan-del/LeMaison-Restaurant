@@ -13,7 +13,7 @@ public class Order {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-  //s
+  //
 
     @NotBlank(message = "Name is required")
     private String customerName;
