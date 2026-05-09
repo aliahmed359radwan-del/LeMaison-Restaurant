@@ -13,7 +13,7 @@ public class MenuItem {
     private String name;
     private String description;
     private double price;
-
+//s
     public MenuItem() {}
 
     public MenuItem(String name, String description, double price) {
